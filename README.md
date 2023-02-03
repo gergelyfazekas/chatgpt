@@ -1,5 +1,5 @@
 # Chat GPT
-## Code refactoring using OpenAI's ChatGPT with the text-davinci-003 engine
+## Code refactoring using OpenAI's ChatGPT
 
 This module is focused on helping us write faster, more coherent and more pythonic code. We can ask OpenAI's ChatGPT model to make suggestions about our own code. The suggestions themselves can be in the form of english text or directly python code (in which case the model changes/refactors our code per its suggestion).
 
